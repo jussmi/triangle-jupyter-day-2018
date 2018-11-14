@@ -5,7 +5,7 @@ import time
 from tqdm.autonotebook import tqdm
 from typing import List
 
-IMAGE_PATH = '/home/jovyan/work/static/'
+IMAGE_PATH = 'static/'
 IMAGE_LIST = ['hippos_balloons.jpg', 'real_hippo_open_mouth.jpg', 
               'hippo_banana.jpg', 'hippopotamuse.jpg',
               'hippo_reading.jpg']
